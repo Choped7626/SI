@@ -1,0 +1,2 @@
+desviacionTipicaPrecisionTest	0.0075	1x1	double
+mediaPrecisionTest	0.9674	1x1	double
